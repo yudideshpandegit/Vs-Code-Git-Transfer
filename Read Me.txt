@@ -1,1 +1,1 @@
-This for git and vs code connection practice.
+This for git and vs code connection practice check.
